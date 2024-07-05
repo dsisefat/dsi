@@ -51,10 +51,12 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
+http://xtv.ooo:8080/live/mahendra44/mhnd1234/245905.m3u8
 https://ythls.onrender.com/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
 http://103.151.60.214:7444/1102/tracks-v1a1/mono.m3u8
+https://evbr.short.gy/BDStreamHub.Gazitv.m3u
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9FaKDT7i7teJWAdmK7smeiz5CP8qecW4_w&s",Nagorik Tv
 http://103.151.60.214:7444/1103/tracks-v1a1/mono.m3u8
@@ -90,6 +92,7 @@ https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
+https://evbr.short.gy/BDStreamHub/zee_bangla.m3u
 https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
@@ -115,10 +118,14 @@ https://d18dyiwu97wm6q.cloudfront.net:443/playlist720p.m3u8
 http://124.29.225.205:8000/play/a04a/index.m3u8?
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://raw.githubusercontent.com/sadman-al-rafi/sadman-al-rafi.github.io/main/animal_planet_multi.m3u8
 http://45.5.117.182:8000/play/a0fj/index.m3u8
+http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Animal_Planet/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 http://raw.githubusercontent.com/dsisefat/dsi/main/dis.m3u8
 http://45.5.117.182:8000/play/a0ju/index.m3u8
 
@@ -126,6 +133,7 @@ http://45.5.117.182:8000/play/a0ju/index.m3u8
 http://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
+https://dplus.gammacdn.workers.dev/videos/96.m3u8
 http://sefatdsi.github.io/dth/DiscoveryScience.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
@@ -144,10 +152,11 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
 http://45.5.117.182:8000/play/a0ey/index.m3u8
 http://45.5.117.182:8000/play/a0kv/index.m3u8
-
+http://bal.pst.streaming-elbrus.su:8880/bigteisti10/NATIONALGEOGRAPHIC/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
 http://124.29.225.205:8000/play/a047/index.m3u8
+http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC 
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
