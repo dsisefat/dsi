@@ -57,12 +57,12 @@ http://xtv.ooo:8080/52882216/581881255/\/245905
 “Iptv” https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
-“Iptv”
-https://evbr.short.gy/BDStreamHub.Gazitv.m3u8
-“Iptv”
+“Iptv” 
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm72ZJd0uhgx9HHZCfg7J3900/ts
 “Iptv”
-https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
+https://evbr.short.gy/BDStreamHub.Gazitv.m3u8
+“Iptv” http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm72ZJd0uhgx9HHZCfg7J3900/ts
+“Iptv” https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9FaKDT7i7teJWAdmK7smeiz5CP8qecW4_w&s",Nagorik Tv
@@ -114,17 +114,26 @@ https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
-“http://xtv.ooo:8080/52882216/581881255/245898”
+“Iptv”
+http://xtv.ooo:8080/52882216/581881255/\/245898
+“Iptv”
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77SZrNZqOKtxLVkgnZqgDIc/ts
-“http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm76gsKyd9Vw0mKYGpBAdORdU/ts”
+“Iptv”
+http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm76gsKyd9Vw0mKYGpBAdORdU/ts
+“Iptv”
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77vjAwzHfDxqFuH7In9GkM4/ts
-“https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600”
+“Iptv”
+https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
+“Iptv”
 https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
-“https://evbr.short.gy/BDStreamHub/zee_bangla.m3u8”
+“Iptv”
 https://tv5.hoichoi24.com/1405/index.m3u8
-“https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl”
+“Iptv”
+https://evbr.short.gy/BDStreamHub/zee_bangla.m3u8
+“Iptv”
+https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR644
