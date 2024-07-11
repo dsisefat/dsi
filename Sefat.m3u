@@ -82,7 +82,7 @@ https://abpmitv.akamaized.net/hls/live/2042839/ananda/master_360p.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU",Kolkata Tv
 https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
 “Iptv”
 http://xtv.ooo:8080/52882216/581881255/\/245930
 “Iptv”
@@ -126,6 +126,7 @@ http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77vjAwzHfDxqFuH7In9GkM4/ts
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
 “Iptv”
 https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
+“Iptv”
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
 “Iptv”
@@ -157,11 +158,13 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/cb543d1e786c668
 https://d18dyiwu97wm6q.cloudfront.net:443/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
-http://124.29.225.205:8000/play/a04a/index.m3u8?
+http://filex.tv:8080/Diamond@pk@321/4193525345453/246730
+http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
+
+
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
-“Iptv”
-https://dplus.gammacdn.workers.dev/videos/0.m3u8
 “Iptv”
 https://raw.githubusercontent.com/sadman-al-rafi/sadan-al-rafi.github.io/main/animal_planet_m.m3u8
 “Iptv”
@@ -174,6 +177,7 @@ https://raw.githubusercontent.com/sadman-al-rafi/sadman-al-rafi.github.io/main/a
 http://45.5.117.182:8000/play/a0fj/index.m3u8
 “Iptv”
 http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Animal_Planet/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
+“Iptv”
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
@@ -187,6 +191,8 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 http://45.5.117.182:8000/play/a0ju/index.m3u8
 “Iptv”
 https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
+
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Turbo
 “Iptv”
@@ -214,7 +220,7 @@ http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEP8ha4KiYg4UxTHVNhF5geKUkFkwXhcGsQ&usqp=CAU", Viasat Nature
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",Nasa Tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7p12FJ_tPqgX48E_5E2jDDUKKoOKp-nRyBdxmoOvxuk4IXxcam8K9TbD&s=10",Nasa Tv
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
