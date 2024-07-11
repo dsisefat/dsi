@@ -52,9 +52,9 @@ https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
+“http://xtv.ooo:8080/52882216/581881255/\/245905”
 http://xtv.ooo:8080/live/mahendra44/mhnd1234/245905.m3u8
-“http://xtv.ooo:8080/52882216/581881255/245905”
-https://ythls.onrender.com/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
+“https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl”
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
 “https://evbr.short.gy/BDStreamHub.Gazitv.m3u8”
@@ -80,7 +80,7 @@ https://abpmitv.akamaized.net/hls/live/2042839/ananda/master_360p.m3u8
 https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://durbinlive.com/uploads/tv_image/btv.png",BTV
-http://xtv.ooo:8080/52882216/581881255/245930
+“http://xtv.ooo:8080/52882216/581881255/\/245930”
 http://103.230.105.252:1935/live/btv/chunklist_w1315279010.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
@@ -88,6 +88,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto TV  
 “https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=”
+https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JagoNews24 TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8?nimblesessionid=
@@ -144,10 +145,11 @@ http://45.5.117.182:8000/play/a0fj/index.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
-“https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8”
-https://dplus.gammacdn.workers.dev/videos/95.m3u8
 “http://raw.githubusercontent.com/dsisefat/dsi/main/dis.m3u8”
+https://dplus.gammacdn.workers.dev/videos/95.m3u8
+“https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8”
 http://45.5.117.182:8000/play/a0ju/index.m3u8
+“https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl”
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Turbo
 “https://dplus.gammacdn.workers.dev/videos/98.m3u8”
@@ -157,6 +159,7 @@ http://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
 “https://dplus.gammacdn.workers.dev/videos/96.m3u8”
 http://sefatdsi.github.io/dth/DiscoveryScience.m3u8
+“https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl”
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
 http://iptv.prosto.tv:7000/ch87/video.m3u8
