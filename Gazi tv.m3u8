@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:-1 tvg-id=
+#EXTINF:-1 tvg-id="5"
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm72ZJd0uhgx9HHZCfg7J3900.m3u8
-#EXTINF:-2 tvg-id=
+#EXTINF:-2 tvg-id="6"
 https://evbr.short.gy/BDStreamHub.Gazitv.m3u8
-#EXTINF:-3 tvg-id=
+#EXTINF:-3 tvg-id="7"
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm72ZJd0uhgx9HHZCfg7J3900/
-#EXTINF:-4 tvg-id=
+#EXTINF:-4 tvg-id="8"
 https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
