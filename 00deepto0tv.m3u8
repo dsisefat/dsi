@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-id="1"
+http://xtv.ooo:8080/88654455/97543255/245927?
+#EXTINF:-1 tvg-id="2"
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=?
+#EXTINF:-1 tvg-id="3"
+https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl?
+#EXTINF:-1 tvg-id="4"
