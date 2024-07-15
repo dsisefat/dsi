@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="9"
-http://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/
+http://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts?token=tee
 #EXTINF:-2 tvg-id="10"@
-http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239109?
+http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239109?token=433
 #EXTINF:-3 tvg-id="11"@
-http://xtv.ooo:8080/52882216/581881255/245989?
+http://xtv.ooo:8080/52882216/581881255/245989?token=009
 #EXTINF:-4 tvg-id="12"@
-https://sefatdsi.github.io/dth/nosig.mp4?
+https://sefatdsi.github.io/dth/nosig.mp4?token=wq
