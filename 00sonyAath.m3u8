@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXTINF:-1 tvg-id="1"
-http://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts?token=tee
+#
 #EXTINF:-1 tvg-id="2"
 http://mixbix.xyz:8080/5WzLce6Mjd4R/SyGwDb7rPjBR/239109?token=433
 #EXTINF:-1 tvg-id="3"
