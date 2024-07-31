@@ -4,7 +4,7 @@
 
 # variants
 #EXT-X-STREAM-INF:FRAME-RATE=25
-http://ythls.kekikakademi.org/youtube/channel href="/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8"
+http://ythls.kekikakademi.org/youtube/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXT-X-STREAM-INF:FRAME-RATE=25
 http://ythls.kekikakademi.org/youtube/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
