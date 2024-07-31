@@ -4,8 +4,8 @@
 
 # variants
 #EXT-X-STREAM-INF:FRAME-RATE=25
-http://ythls.kekikakademi.org/youtube/channel2 href="/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8"
-#EXT-X-STREAM-INF:FRAME-RATE=25
 http://ythls.kekikakademi.org/youtube/channel href="/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8"
+#EXT-X-STREAM-INF:FRAME-RATE=25
+http://ythls.kekikakademi.org/youtube/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 
-http://xtv.ooo:8080/52882216/581881255/24590#index.m3u8?@docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
+
