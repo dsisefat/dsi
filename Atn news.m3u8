@@ -1,8 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:1
-## Created with Broadpeak BkS350 Origin Packager (version=1.11.16-26430)
-
-# variants
 #EXT-X-STREAM-INF:FRAME-RATE=25
 http://ythls.kekikakademi.org/youtube/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 #EXT-X-STREAM-INF:FRAME-RATE=25
