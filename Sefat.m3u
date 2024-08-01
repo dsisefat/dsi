@@ -4,6 +4,7 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
+https://dsisefat.github.io/dsi/deen/sefat.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
@@ -173,33 +174,10 @@ http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
-“Iptv”
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-“Iptv”
-https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-“Iptv”
-https://raw.githubusercontent.com/sadman-al-rafi/sadman-al-rafi.github.io/main/animal_planet_multi.m3u8
-“Iptv”
-http://45.5.117.182:8000/play/a0fj/index.m3u8
-“Iptv”
-http://bal.pst.streaming-elbrus.su:8880/bigteisti6/Animal_Planet/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
-“Iptv”
-
+https://dsisefat.github.io/dsi/anim/001a.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
-“Iptv”
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-http://raw.githubusercontent.com/dsisefat/dsi/main/dis.m3u8
-“Iptv”
-https://dplus.gammacdn.workers.dev/videos/95.m3u8
-“Iptv”
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-“Iptv”
-http://45.5.117.182:8000/play/a0ju/index.m3u8
-“Iptv”
-https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
-
-
+https://dsisefat.github.io/dsi/disc/001a.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Turbo
 “Iptv”
