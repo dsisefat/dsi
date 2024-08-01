@@ -3,9 +3,9 @@
 #EXT-X-TARGETDURATION:8
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:8.333333,
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
+nosig_1.m3u8
 #EXTINF:6.666667,
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+nosig_2.m3u8
 #EXTINF:4.999998,
-nosig_1.ts
+nosig_3.ts
 #EXT-X-ENDLIST
