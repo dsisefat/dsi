@@ -6,4 +6,6 @@
 001a.m3u8
 #EXTINF:6.666667,
 nosig_1.ts
+#EXTINF:4.999998,
+index.m3u8
 #EXT-X-ENDLIST
