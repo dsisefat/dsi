@@ -1,1 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTINF:-1 tvg-id="1"
 http://xtv.ooo:8080/52882216/581881255/245989?token=009
