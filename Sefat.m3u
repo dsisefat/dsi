@@ -6,7 +6,7 @@ http://www.youtube.com@is.gd/mokkhalive.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
 nosig_1.ts
-#EXTINF:-0
+#EXTINF:-0 tvg-id="2 tvg-name="CCTV2
 https://pull-cdnweam.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
