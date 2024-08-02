@@ -7,7 +7,7 @@ http://www.youtube.com@is.gd/mokkhalive.m3u8
 https://dsisefat.github.io/dsi/deen/sefat22.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
 nosig_1.ts
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
