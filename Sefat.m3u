@@ -100,19 +100,13 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
-“Iptv”
-http://xtv.ooo:8080/52882216/581881255/\/245930
-
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=5Kk8l_QBOfwNu3x6ktTKlA&expires=1721094054&user=d477246e9e724f81a011b847457e71c4?
-
-http://103.230.105.252:1935/live/btv/chunklist_w1315279010.m3u8
-“Iptv”
-https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
+https://fvrd.short.gy      a href="/Btv.ts”
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWMMu67spIQXvI3B0NRkQsuTQDS2R-LATYhQ&usqp=CAU",Deepto TV  
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=@@#&etime=@@#
 https://dsisefat.github.io/dsi/00deepto0tv.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
@@ -128,6 +122,7 @@ http://103.151.60.214:7444/1103/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCILPJz4nifE9TujQorT1Qqe0cNtL6B-80GPprVcM-04SrUnjqj-s72wU&s=10",Jamuna tv
+https://fvrd.short.gy/jamuna_tv.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDwnjVduSu_VQH9SrNY-YgI
 http://113.212.111.246:8080/hls/col12.m3u8?76
 
