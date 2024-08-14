@@ -4,7 +4,7 @@ http://fvrd.short.gy/sefat101.m3u8
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8#
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
 https://dsisefat.github.io/dsi/nosig_1.ts
@@ -18,6 +18,7 @@ https://fvrd.short.gy/sefat105.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8#
 http://208.86.19.13:81/507.stream/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
@@ -25,7 +26,7 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 https://livess.ncare.live/live-orgin/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8?nimblesessionid=
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8#
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
@@ -101,7 +102,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
-https://fvrd.short.gy  href="/Btv.ts”
+https://fvrd.short.gy/sefat104.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
@@ -214,8 +215,24 @@ https://dsisefat.github.io/dsi/anim/001a.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=2141700,AVERAGE-BANDWIDTH=1832328,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_18.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=7374153,AVERAGE-BANDWIDTH=6192693,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.64002A,mp4a.40.2",AUDIO="audio_0"
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4404166,AVERAGE-BANDWIDTH=3717710,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_20.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2817540,AVERAGE-BANDWIDTH=2395528,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1803780,AVERAGE-BANDWIDTH=1550728,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_22.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1296900,AVERAGE-BANDWIDTH=1128328,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_23.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=747780,AVERAGE-BANDWIDTH=670728,RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_24.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=510153,AVERAGE-BANDWIDTH=472693,RESOLUTION=416x240,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_25.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=367620,AVERAGE-BANDWIDTH=353928,RESOLUTION=416x240,FRAME-RATE=25.000,CODECS="avc1.4D401F,mp4a.40.2",AUDIO="audio_0"
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_26.m3u8
 #EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=768000,CODECS="avc1.64001F",RESOLUTION=960x540,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_27.m3u8"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio_0",CHANNELS="2",NAME="Bengali",LANGUAGE="ben",DEFAULT=YES,AUTOSELECT=YES,URI="https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_17_0.m3u8"
 
