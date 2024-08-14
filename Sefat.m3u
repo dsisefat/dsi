@@ -4,7 +4,7 @@ http://fvrd.short.gy/sefat101.m3u8
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8#
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
 https://dsisefat.github.io/dsi/nosig_1.ts
@@ -18,7 +18,6 @@ https://fvrd.short.gy/sefat105.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8#
 http://208.86.19.13:81/507.stream/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
@@ -26,7 +25,7 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 https://livess.ncare.live/live-orgin/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8?nimblesessionid=
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8#
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
@@ -213,6 +212,7 @@ http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
 https://dsisefat.github.io/dsi/anim/001a.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
+#EXTM3U
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=2141700,AVERAGE-BANDWIDTH=1832328,RESOLUTION=960x540,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
@@ -308,9 +308,9 @@ http://103.151.60.214:7444/1101/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gORDuCm4HSjgZnZIqzqE2IQ
-http://103.120.172.74:4600
 http://41.205.93.154/STARSPORTS1/index.m3u8
+http://103.120.172.74:4600
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://imgur.com/5otfnBt.png",Star Sports 2 
 https://fvrd.short.gy/sefat106.m3u8
@@ -320,8 +320,9 @@ http://103.120.172.74:4500
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_aL13Eyfo_ucQJwRQjQCiVxf6fHteJ-G7g&usqp=CAU", STAR SPORTS SELECT 
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFKiHf2mzBcrvTalvTTSBYo?554
 http://180.178.188.152:8000/play/a018
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFKiHf2mzBcrvTalvTTSBYo?554
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
 http://175.107.244.52:4457/play/a08g/index.m3u8
