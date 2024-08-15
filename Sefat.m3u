@@ -54,13 +54,16 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
+http://ythls.kekikakademi.org/youtube/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8?65
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJMSEVo7JL8t_4NlhSlI_hc?6555
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-http://ythls.kekikakademi.org/youtube/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8?65
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gLA3LKuRNgt8qGLit8_5RNQ?544
-http://ythls.kekikakademi.org/youtube/channe/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTM3U
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=2447970,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+http://ythls.kekikakademi.org/youtube/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEPxno6CF3U6J20Nj6_kgtA
@@ -306,7 +309,6 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
-
 
 
 
