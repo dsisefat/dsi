@@ -21,8 +21,12 @@ https://fvrd.short.gy/sefat105.m3u8
 http://208.86.19.13:81/507.stream/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
+#EXTINF:-1 tvg-id="2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStglpxxjpfZ0EF38x2L9QHnu6UkWOWchw1Yw&s",Azan Tv
+https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt_5zzMS_9rEE_YcuhYtuTYuXiE5QVh-Gb2otklJzqXT8W8XWUWrU-rQ&s=10", ATN Islamic 
 https://livess.ncare.live/live-orgin/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8?nimblesessionid=
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8 
@@ -30,43 +34,47 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 
+#EXTINF:-1 tvg-id="3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXSWcXN4-hq0XgSczg3n7OSgAlLYCSXzw3Q&usqp=CAU",BBC News
+http://hdhd.tk:80/live/Giovanni/Giovanni/1643.ts
+
+
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
 http://ythls.kekikakademi.org/youtube/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8?
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?utyu
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
-http://fvrd.short.gy/sefat102.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 http://ythls.kekikakademi.org/youtube/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gBRP9fyB9DAry7QhZ6ZtE6I?6456
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 http://ythls.kekikakademi.org/youtube/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
 https://mtlivestream.com/asian/ytlive/index.m3u8
 
+
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GFLd3i-9-BkljGW35o_fwJ-M-mIK26qsdezJS0nziqFRcDfT7FmrBj7p&s=10",Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 http://ythls.kekikakademi.org/youtube/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8?
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gF0INC1z_6xvs0HyhpT9j0w
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
+http://lifetvbd.xyz:8080/live/3363696/3363696/318.ts
 http://ythls.kekikakademi.org/youtube/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8?65
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJMSEVo7JL8t_4NlhSlI_hc?6555
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy
-#EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=2447970,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 http://ythls.kekikakademi.org/youtube/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gEPxno6CF3U6J20Nj6_kgtA
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 http://ythls.kekikakademi.org/youtube/channe/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
@@ -104,7 +112,8 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
-https://fvrd.short.gy/sefat104.m3u8
+http://14.102.123.50:9080/play/a0o8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
@@ -120,6 +129,7 @@ tvg-id="https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKL
 https://dsisefat.github.io/dsi/00Gazi0tv.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9FaKDT7i7teJWAdmK7smeiz5CP8qecW4_w&s",Nagorik Tv
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=bYbe6A5iGXkdzBlP5y3vsQ&expires=1723817152&user=811838a63b224e85b02b925b31d0fece
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=yLjEAmRNida4ahdnyZRgrQ&expires=1720802260&user=c15be118d93a464dabf77260596012cf
 http://stream.iqflix.net:27872/play/a0n2/index.m3u8
@@ -127,6 +137,7 @@ http://103.151.60.214:7444/1103/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCILPJz4nifE9TujQorT1Qqe0cNtL6B-80GPprVcM-04SrUnjqj-s72wU&s=10",Jamuna tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 https://fvrd.short.gy/jamuna_tv.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDwnjVduSu_VQH9SrNY-YgI
 http://113.212.111.246:8080/hls/col12.m3u8?76
@@ -141,7 +152,7 @@ http://208.86.19.13:81/510.stream/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="KIDS",Duronto TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg”,Duronto TV
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCOP0SGxn9Mab_ahDGdjUbw
 
 
@@ -213,26 +224,18 @@ http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
-https://dsisefat.github.io/dsi/anim/001a.m3u8
+https://raw.githubusercontent.com/dsisefat/dsi/main/anim/index_17.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
 https://raw.githubusercontent.com/dsisefat/dsi/main/index_20.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Turbo
-“Iptv”
-https://dplus.gammacdn.workers.dev/videos/98.m3u8
-“Iptv”
-http://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+https://raw.githubusercontent.com/dsisefat/dsi/main/Tarbo/index_17.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
-“Iptv”
-https://dplus.gammacdn.workers.dev/videos/96.m3u8
-“Iptv”
-http://sefatdsi.github.io/dth/DiscoveryScience.m3u8
-“Iptv”
-https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
+https://raw.githubusercontent.com/dsisefat/dsi/main/Dis-Scien/index_18.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
 http://iptv.prosto.tv:7000/ch87/video.m3u8
@@ -259,8 +262,7 @@ http://124.29.225.205:8000/play/a047/index.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC 
-https://dplus.gammacdn.workers.dev/videos/97.m3u8
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
+https://raw.githubusercontent.com/dsisefat/dsi/main/tlc/index_15.m3u8
 http://124.29.225.205:8000/play/a044/index.m3u8
 “https://varun-iptv.netlify.app/m3u/TLC.m3u8’’
 
@@ -283,12 +285,12 @@ http://homeip.biz/IN_SNT2/index.m3u8?token=5b22dcb61ba9563f76618e068cf6a842
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",T sports HD 
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=jDzLA7bre5D3zOPrYZ1G3g&expires=1721094617&user=d477246e9e724f81a011b847457e71c4
+http://xtv.ooo:8080/live/global/global/167590.ts
 http://103.151.60.214:7444/1101/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 http://103.120.172.74:4600
 
 
@@ -305,10 +307,15 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFKiHf2mzBcrvTalvTTSBYo
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=982000,AVERAGE-BANDWIDTH=968000
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5395000,AVERAGE-BANDWIDTH=5082000
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
+
 
 
 
