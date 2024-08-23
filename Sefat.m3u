@@ -58,6 +58,7 @@ http://ythls.kekikakademi.org/youtube/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
+#EXT-X-STREAM-INF:BANDWIDTH=2969452,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,SUBTITLES="vtt",CLOSED-CAPTIONS=NONE
 http://utube.piratestv.workers.dev/@IndependentTelevision.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
@@ -279,6 +280,8 @@ http://45.5.117.182:8000/play/a0kv/index.m3u8
 http://bal.pst.streaming-elbrus.su:8880/bigteisti10/NATIONALGEOGRAPHIC/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
+#EXT-X-STREAM-INF:BANDWIDTH=2969452,CODECS="mp4a.40.2,avc1.4d401f",RESOLUTION=1280x720,FRAME-RATE=30,VIDEO-RANGE=SDR,SUBTITLES="vtt",CLOSED-CAPTIONS=NONE
+http://utube.piratestv.workers.dev/@NatGeoWild.playlist/index.m3u8
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 http://124.29.225.205:8000/play/a047/index.m3u8
 https://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
