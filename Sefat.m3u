@@ -182,7 +182,7 @@ https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
 #EXTM3U
 #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1280x720,FRAME-RATE=30.000,CODECS="avc1.4d001f,mp4a.40.2",AVERAGE-BANDWIDTH=1720000,BANDWIDTH=2150000
-http://217.20.112.199/starjalshahd/ a href=”tracks-v1a1/mono.m3u8”
+http://217.20.112.199/starjalshahd/tracks-v1a1/mono.m3u8
 
 http://humsab.xyz/IN_JALSHAS/index.m3u8
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77SZrNZqOKtxLVkgnZqgDIc/ts
