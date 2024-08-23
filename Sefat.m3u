@@ -4,10 +4,14 @@ http://fvrd.short.gy/sefat101.m3u8
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
 https://dsisefat.github.io/dsi/nosig_1.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtglB3AzP1_7W0MNukvfCb5Cnl0Z2CoQY25eTXFFi0KaUkmMY4E11HdPg&s=10",Salaam channel
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtv.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
@@ -77,6 +81,7 @@ http://ythls.kekikakademi.org/youtube/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
+https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 http://ythls.kekikakademi.org/youtube/channe/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 
@@ -136,7 +141,7 @@ tvg-id="https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKL
 https://dsisefat.github.io/dsi/00Gazi0tv.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9FaKDT7i7teJWAdmK7smeiz5CP8qecW4_w&s",Nagorik Tv
-https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=bYbe6A5iGXkdzBlP5y3vsQ&expires=1723817152&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8?expires=1724444307&md5=-Vfy31LToA-uCYPKuZnlPg&user=811838a63b224e85b02b925b31d0fece
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=yLjEAmRNida4ahdnyZRgrQ&expires=1720802260&user=c15be118d93a464dabf77260596012cf
 http://stream.iqflix.net:27872/play/a0n2/index.m3u8
@@ -158,7 +163,7 @@ https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 http://208.86.19.13:81/510.stream/index.m3u8?55
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s",Ekushey tv 
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg”,Duronto TV
@@ -194,7 +199,8 @@ https://tv5.hoichoi24.com/1405/index.m3u8
 https://evbr.short.gy/BDStreamHub/zee_bangla.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Kolkata Bangla",Colors Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla
+http://212.102.58.249:25461/live/Giovanni/Giovanni/7204.m3u8?token=QhtdWUIOQ18aDgFbDlMBAwYAUA9XV1UABQMEU1UAUlMOWFcABlEEAA0bFUBEF0ZQVF06UQcUXwQFA1YdExEWUktmXFwTXENRDw8MVRVPFkFcXQAaWQZJEUdaBhMLRlcEDgEAGh1EBB1MXEsMVg9rUVBGDFsGFF9dQl8OHRMLC2hdXFhZXwJDXxoIG04VCkdFFwoLTQ9aSRFVWhZDUBAAFQMbBAEAXkNJGlpWF1kXRkwXCkd6JxRJEVJLFlRfFwxYVxsPGlxVFF0aFRsLRDxGUEZEF10CWwBBFQlAARNIR1pYQWpbXggPAFtNUA1ZEBYPFwRHFEFbCl1eRw1DbhQMUxsDFwoCUVRUGkQ=@#@#=playlist.m3u8
 http://tv.digitalview.live:8080/play/7JCNPsZeSk_ASzzPBqYeriYKElmytuL3JwRTRhAjCnIPPOZk2KVByk5SukkuI6AW?655
 http://103.120.172.74:1070
 
