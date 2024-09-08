@@ -68,9 +68,11 @@ http://lifetvbd.xyz:8080/play/hr4Z5M5y8Z4fBXFQQyziTaxKawBvstJg-iVY5RUOJHk
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 http://utube.piratestv.workers.dev/@IndependentTelevision.playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
+https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 https://mtlivestream.com/asian/ytlive/index.m3u8
 https://livess.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 
@@ -127,7 +129,7 @@ http://208.86.19.13:81/506.stream/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYT9bs65T6eT4R4vbnJpmSWe1AZhboh0U9lSrf70iliIhatzJa9EBoK3&s=10",ABP Ananda
 https://abpmitv.akamaized.net/hls/live/2042839/ananda/master_360p.m3u8
@@ -151,7 +153,8 @@ https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=@@#&etime=@@#
 https://dsisefat.github.io/dsi/00deepto0tv.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=4111540?stime=20240420134645&etime=20240420135645&encod
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
@@ -191,14 +194,14 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 https://bdix.proximitybd.xyz/jado.php?id=duronto_tv
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
-https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
+http://14.102.123.50:5001/live/697.m3u8
 https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
-http://humsab.xyz/IN_JALSHAS/index.m3u8
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
 https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8 
 http://humsab.xyz/IN_JALSHAS/index.m3u8
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77SZrNZqOKtxLVkgnZqgDIc/ts
@@ -208,12 +211,7 @@ http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77SZrNZqOKtxLVkgnZqgDIc/ts
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm76gsKyd9Vw0mKYGpBAdORdU/ts
 “Iptv”
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77vjAwzHfDxqFuH7In9GkM4/ts
-“Iptv”
-https://himel-op.top/Join-Telegram-@HimelOP_Official/cooltvopp.m3u8?id=24600
-“Iptv”
-http://217.20.112.199/starjalshahd/index.m3u8
-http://humsab.xyz/IN_JALSHAS/index.m3u8
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
+
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
@@ -253,6 +251,7 @@ https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colors
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
+http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1355
 https://mhdtvweb.com/sliv/stream.php?id=sony-yay&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 http://homeip.biz/IND_SonyYaYKids/index.m3u8?token=2c1572bf931c7b4f6a7a496e1ec9e8b0
 https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
@@ -264,7 +263,8 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/cb543d1e786c668
 https://d18dyiwu97wm6q.cloudfront.net:443/playlist720p.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
-https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8
+http://125.209.88.166:45793/BRN/BBCEarthHD.stream/chunklist_w170156438.m3u8
+https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
 https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
 
