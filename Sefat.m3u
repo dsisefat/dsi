@@ -54,6 +54,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=DBC-NEWS
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?utyu
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A
@@ -99,6 +100,7 @@ http://ythls.kekikakademi.org/youtube/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
+https://vimeo.com/event/4001366/embed/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
 
@@ -158,9 +160,10 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm72ZJd0uhgx9HHZCfg7J3900/?ittt
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9FaKDT7i7teJWAdmK7smeiz5CP8qecW4_w&s",Nagorik Tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv
@@ -181,6 +184,7 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel i 
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=CHANNEL-I
 http://208.86.19.13:81/510.stream/index.m3u8?55
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 http://utube.piratestv.workers.dev/@channelinews.m3u8??
@@ -195,6 +199,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 https://bdix.proximitybd.xyz/jado.php?id=duronto_tv
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
+http://lifetvbd.xyz:8080/play/bnZ9riaZDKTMrqSNNsy5WCPRiS7vU9TjfjI3uX78ejo/ts
 http://14.102.123.50:5001/live/697.m3u8
 https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
@@ -203,7 +208,6 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
-https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8 
 http://humsab.xyz/IN_JALSHAS/index.m3u8
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77SZrNZqOKtxLVkgnZqgDIc/ts
 http://103.151.60.174/manikvai@hoichoi24.com
@@ -226,6 +230,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_bangla
 http://217.20.112.199/zeebangla/index.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=q921cn70
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-BANGLA
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla
 https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
@@ -235,13 +241,14 @@ http://14.102.123.50:5001/live/756.m3u8
 http://14.102.123.50:5001/live/high/1369.m3u8
 http://103.120.172.74:1070
 https://colorsscreen.com/live.php?id=756&extension=.m3u8|Referer=https://colorsscreen.com/
-
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=COLORS-BANGLA
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR644
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=NICK
 http://14.102.123.50:5001/live/high/1341.m3u8
 http://14.102.123.50:5001/live/545.m3u8
 https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
@@ -349,6 +356,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
 http://103.151.60.214:7444/1101/tracks-v1a1/mono.m3u8
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
 https://mhdtv.co.in/daddy/stream.m3u8?id=270
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
 https://humsab.xyz/In_Hin/tracks-v1a1/mono.m3u8
