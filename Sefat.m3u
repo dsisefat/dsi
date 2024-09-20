@@ -1,9 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAg"}], "type": "temporary"}
 http://fvrd.short.gy/sefat101.m3u8
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAA"}], "type": "temporary"}
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8
 
@@ -54,11 +58,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=DBC-NEWS
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8?utyu
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=DBC-NEWS
+http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A
+
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
@@ -85,6 +89,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8?433
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
 http://lifetvbd.xyz:8080/play/IejZgXhMFu3dMrpTwhRvlSGsKl0ZxLnXHvSKYfR01O8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
@@ -100,7 +105,6 @@ http://ythls.kekikakademi.org/youtube/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
-https://vimeo.com/event/4001366/embed/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
 
@@ -121,6 +125,8 @@ http://xtv.ooo:8080/52882216/581881255/24590#index.m3u8
 #docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
 https://bdix.proximitybd.xyz/jado.php?id=atn_news
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=ATN-NEWS
+https://cricfyranahin.xyz/airtel.php?id=3175
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JagoNews24 TV
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8?nimblesessionid=
@@ -195,8 +201,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520”,Duronto TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 https://bdix.proximitybd.xyz/jado.php?id=duronto_tv
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
 http://lifetvbd.xyz:8080/play/bnZ9riaZDKTMrqSNNsy5WCPRiS7vU9TjfjI3uX78ejo/ts
@@ -391,7 +397,6 @@ http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
 
 https://github.com/aniketda?tab=repositories
-https://github.com/Marufur1?tab=repositories
 https://github.com/Hasanmahmud000?tab=repositories
 https://github.com/KMABIDHASAN63?tab=repositories
 https://github.com/Mrlivetv
@@ -401,3 +406,4 @@ https://github.com/freedish2024?tab=repositories
 https://github.com/Rubel-Live-Tv?tab=repositories
 https://github.com/srpremium?tab=repositories
 http://14.102.123.50:5001/?q=high&language=5&category=0
+
