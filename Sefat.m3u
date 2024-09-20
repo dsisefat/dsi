@@ -109,6 +109,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8
 https://livess.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sa_tv
@@ -152,6 +154,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/pl
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDhFaIg", "kid": "onmUkhzsTsaSy2oyRXTd"}], "type": "temporary"}
+http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 http://103.230.105.252:1935/live/btv/playlist.m3u8
 
@@ -163,7 +168,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=@@#&etime=@@#
 https://dsisefat.github.io/dsi/00deepto0tv.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=4111540?stime=20240420134645&etime=20240420135645&encod
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
@@ -322,6 +328,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://45.5.117.182:8000/play/a0ey/index.m3u8
 http://45.5.117.182:8000/play/a0kv/index.m3u8
 http://bal.pst.streaming-elbrus.su:8880/bigteisti10/NATIONALGEOGRAPHIC/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
+http://opplex.tv:8080/live/global/global/245967.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
 http://119.156.26.155:8000/play/a06f/index.m3u8
