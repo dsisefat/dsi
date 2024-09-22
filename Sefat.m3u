@@ -2,19 +2,19 @@
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAg"}], "type": "temporary"}
-http://fvrd.short.gy/sefat101.m3u8
+http://fvrd.short.gy/sefat101.m3u8#
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAA"}], "type": "temporary"}
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/ tvg-url="chunks.m3u8”
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv///chunks.m3u8#
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
 #https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtglB3AzP1_7W0MNukvfCb5Cnl0Z2CoQY25eTXFFi0KaUkmMY4E11HdPg&s=10",Salaam channel
-https://iptv.salaamtv.org/salaam/playlist2 tvg-url="/index.m3u8”
+https://iptv.salaamtv.org/salaam/playlist2///index.m3u8#
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtv.stream/playlist.m3u8
 
 
@@ -22,7 +22,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/./playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qij0qZKUDrfswpJgkz5UkK1kdA_rpyrVCFJGBmThusbc8ietF8tdKlI&s=10",Madani Channel
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f///1.m3u8
 https://madanichannelbangla.tv/
 https://utube.piratestv.workers.dev/@MadaniChannelBanglaLive.m3u8
 
