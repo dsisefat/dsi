@@ -8,7 +8,7 @@ http://www.youtube.com@is.gd/mokkhalive.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAA"}], "type": "temporary"}
-https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8=#
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8?### 
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
 #https://dsisefat.github.io/dsi/nosig_1.ts
@@ -19,10 +19,10 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
-http://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/./playlist.m3u8
+http://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?#
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qij0qZKUDrfswpJgkz5UkK1kdA_rpyrVCFJGBmThusbc8ietF8tdKlI&s=10",Madani Channel
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8?#
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8????
 https://madanichannelbangla.tv/
 https://utube.piratestv.workers.dev/@MadaniChannelBanglaLive.m3u8
 
@@ -292,18 +292,18 @@ http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
-https://raw.githubusercontent.com/dsisefat/dsi/main/anim/index_17.m3u8
+https://raw.githubusercontent.com/dsisefat/dsi/main/anim/index_17.m3u8?#
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
-https://raw.githubusercontent.com/dsisefat/dsi/main/index_20.m3u8
+https://raw.githubusercontent.com/dsisefat/dsi/main/index_20.m3u8?#
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Turbo
-https://raw.githubusercontent.com/dsisefat/dsi/main/Tarbo/index_17.m3u8
+https://raw.githubusercontent.com/dsisefat/dsi/main/Tarbo/index_17.m3u8?#
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIg82RCbVcMOUWw4m0eSwd7aW5r2BN4E9pgA&usqp=CAU",Discovery Science 
-https://raw.githubusercontent.com/dsisefat/dsi/main/Dis-Scien/index_18.m3u8
+https://raw.githubusercontent.com/dsisefat/dsi/main/Dis-Scien/index_18.m3u8?#
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2O3S6G0HXUCthb5RKGlAH8AQc0BrQthCX9A&usqp=CAU",History Channel 
 http://iptv.prosto.tv:7000/ch87/video.m3u8
