@@ -22,14 +22,14 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?#
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qij0qZKUDrfswpJgkz5UkK1kdA_rpyrVCFJGBmThusbc8ietF8tdKlI&s=10",Madani Channel
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
 https://madanichannelbangla.tv/
 https://utube.piratestv.workers.dev/@MadaniChannelBanglaLive.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8?#
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8?#
 http://208.86.19.13:81/507.stream/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 
@@ -38,6 +38,7 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8?#
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt_5zzMS_9rEE_YcuhYtuTYuXiE5QVh-Gb2otklJzqXT8W8XWUWrU-rQ&s=10", ATN Islamic 
 https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8?#
+https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 https://livess.ncare.live/live-orgin/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8?nimblesessionid=
 
 
@@ -198,10 +199,11 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",ATN Bangla
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=ATN-BANGLA?#
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel i 
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=CHANNEL-I
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=CHANNEL-I?#
 http://208.86.19.13:81/510.stream/index.m3u8?55
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 http://utube.piratestv.workers.dev/@channelinews.m3u8??
@@ -212,15 +214,16 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520”,Duronto TV
-https://bdix.proximitybd.xyz/jado.php?id=duronto_tv
+https://bdix.proximitybd.xyz/jado.php?id=duronto_tv?#
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8?#
 http://lifetvbd.xyz:8080/play/bnZ9riaZDKTMrqSNNsy5WCPRiS7vU9TjfjI3uX78ejo/ts
 http://14.102.123.50:5001/live/697.m3u8
-https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
+
 http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
-https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8
+
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
@@ -416,6 +419,4 @@ https://github.com/AJ-Ashik?tab=repositories
 https://github.com/SonyIPTV?tab=repositories
 https://github.com/freedish2024?tab=repositories
 https://github.com/Rubel-Live-Tv?tab=repositories
-https://github.com/srpremium?tab=repositories
 http://14.102.123.50:5001/?q=high&language=5&category=0
-
