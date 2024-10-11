@@ -1,13 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAg"}], "type": "temporary"}
 http://fvrd.short.gy/sefat101.m3u8?# 
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDFaIg", "kid": "onmUkhzsTsaSy2oyRXTqAA"}], "type": "temporary"}
+https://global.ncare.live/live-orgin/deentv.stream/playlist.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/chunks.m3u8?### 
 
 #EXT-X-STREAM-INF:BANDWIDTH=1400000,RESOLUTION=854x480
@@ -19,9 +17,10 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
-http://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8?#
+http://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qij0qZKUDrfswpJgkz5UkK1kdA_rpyrVCFJGBmThusbc8ietF8tdKlI&s=10",Madani Channel
+https://global.ncare.live/live-orgin/madanitvbangla.stream/playlist.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/3.m3u8
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
 https://madanichannelbangla.tv/
@@ -29,17 +28,16 @@ https://utube.piratestv.workers.dev/@MadaniChannelBanglaLive.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8?#
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 http://208.86.19.13:81/507.stream/index.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+https://global.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStglpxxjpfZ0EF38x2L9QHnu6UkWOWchw1Yw&s",Azan Tv
 https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8?#
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt_5zzMS_9rEE_YcuhYtuTYuXiE5QVh-Gb2otklJzqXT8W8XWUWrU-rQ&s=10", ATN Islamic 
-https://livess.ncare.live/live-orgin/atnislamictv.stream/playlist.m3u8?#
-https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
-https://livess.ncare.live/live-orgin/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8?nimblesessionid=
+https://dsisefat.github.io/dsi/nosig_1.ts?#
 
 
 
@@ -59,6 +57,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
+https://global.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=DBC-NEWS
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gCHhfjsh352aTrFLGFx0o-A
@@ -70,18 +69,18 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=news_24_hd
 https://utube.buddyxiptv.com/@news24television90.playlist/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=107&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 http://ythls.kekikakademi.org/youtube/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
-http://lifetvbd.xyz:8080/play/hr4Z5M5y8Z4fBXFQQyziTaxKawBvstJg-iVY5RUOJHk
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
+https://global.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 http://utube.piratestv.workers.dev/@IndependentTelevision.m3u8?#
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 http://utube.piratestv.workers.dev/@IndependentTelevision.playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
-https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 https://mtlivestream.com/asian/ytlive/index.m3u8
 https://livess.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GFLd3i-9-BkljGW35o_fwJ-M-mIK26qsdezJS0nziqFRcDfT7FmrBj7p&s=10",Ekhon TV
 https://fvrd.short.gy/sefat113.m3u8?#
@@ -100,20 +99,20 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
 http://lifetvbd.xyz:8080/live/3363696/3363696/318.ts
 http://ythls.kekikakademi.org/youtube/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8?65
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gJMSEVo7JL8t_4NlhSlI_hc?6555
+https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 http://ythls.kekikakademi.org/youtube/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
 https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
+https://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_24
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png",Sa Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=1938a86s&e=.m3u8
 https://livess.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?
@@ -122,7 +121,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF ",ATN News
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_news
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=atn_news
 https://ythls.armelin.one/channel/UCKlhfq1ILoAFav7iw5iCnfA.m3u8
 http://dsisefat.github.io/dsi/Atn%20news.m3u8
@@ -159,8 +158,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/pl
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "0y7sNvyooWeaHKXkIDhFaIg", "kid": "onmUkhzsTsaSy2oyRXTd"}], "type": "temporary"}
 http://103.230.105.252:1935/live/btv/playlist.m3u8?#
 http://176.119.29.52/live.ts?channelId=44154&uid=13433&deviceMac=00:1A:79:00:97:A1
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
@@ -174,7 +171,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?stime=@@#&etime=@@#
 https://dsisefat.github.io/dsi/00deepto0tv.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8?sessId=4111540?stime=20240420134645&etime=20240420135645&encod
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
@@ -190,7 +187,7 @@ http://103.151.60.214:7444/1103/tracks-v1a1/mono.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCILPJz4nifE9TujQorT1Qqe0cNtL6B-80GPprVcM-04SrUnjqj-s72wU&s=10",Jamuna tv
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8?nimblesessionid=
+https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 https://fvrd.short.gy/jamuna_tv.m3u8
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gDwnjVduSu_VQH9SrNY-YgI
@@ -199,6 +196,7 @@ https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",ATN Bangla
+https://global.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=ATN-BANGLA?#
 https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 
@@ -208,23 +206,20 @@ http://208.86.19.13:81/510.stream/index.m3u8?55
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 http://utube.piratestv.workers.dev/@channelinews.m3u8??
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_i
+https://global.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s",Ekushey tv 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekusheytv-8-org.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520”,Duronto TV
-https://bdix.proximitybd.xyz/jado.php?id=duronto_tv?#
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
+#https://bdix.proximitybd.xyz/jado.php?id=duronto_tv?#
+#https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
+https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
-https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8?#
-http://lifetvbd.xyz:8080/play/bnZ9riaZDKTMrqSNNsy5WCPRiS7vU9TjfjI3uX78ejo/ts
-http://14.102.123.50:5001/live/697.m3u8
-
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
-
-
+https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
@@ -254,14 +249,14 @@ https://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-BANGLA
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla
-https://ekdilhai.pro/IN_ColorsBengali/index.m3u8
+https://bajimath.com/sa/amarbdflix/stream.m3u8?id=COLORS-BANGLA
 http://217.20.112.199/colorsbangla/index.m3u8
 https://colorsscreen.com/live.php?id=1369&extension=.m3u8
 http://14.102.123.50:5001/live/756.m3u8
 http://14.102.123.50:5001/live/high/1369.m3u8
 http://103.120.172.74:1070
 https://colorsscreen.com/live.php?id=756&extension=.m3u8|Referer=https://colorsscreen.com/
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=COLORS-BANGLA
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR644
@@ -279,10 +274,7 @@ https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colors
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
-http://iptvtree.net:8080/GenIptv2023/XkgMCdR7PJzShK5m/1355
-https://mhdtvweb.com/sliv/stream.php?id=sony-yay&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-http://homeip.biz/IND_SonyYaYKids/index.m3u8?token=2c1572bf931c7b4f6a7a496e1ec9e8b0
-https://docs.google.com/uc?export=download&id=1e3E2TGfOJT9G5vTDEL0g1fvKLByiU3sl
+https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zYsa8lbBUCz9ItWcXWjjdiSuogAsZA0wWg&usqp=CAU",Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/cb543d1e786c668f84cb3a63cef343a4f94e1fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c505677af6cad027ed7a50cae0a2d6c6634dac4e71c8ccb6950f6c70a292dad791841e6756db4582f3e99e51303807d927c0618e7402e753a9fb204f86953c588148b612995adcd1c662f0303ca4d3eb4f60fe1a6fe5846df72a2b70e5c952643eed141ce8101ead3d25e83428723a5099494f183ce118085c737a150b76d5101734fb7ea0dfb5cc99fa0f84b1dde1b0a471052eaa297fb5d34f428293ed9ccbb74e16271b4ed04926936c160d22fd671e2c3cb78f5d41eea64688862382b4e2adff3d096c5eae0da263abc29dfaae8d672465e977e606ac677d12e2739dfa88544c48b399fb8369def293c36c4834a9299f2d2beebcd7eb906e4e8b4b31b14452a4423964dae9f5ade2bf671bc8146720b0317fbda1defaeed731c2e0f8a8955d1533cbcd8808c964e18c2721457ed2f880b5d229c7a3c32b56dd4953e6585234ab6343bfa4a3ccf17afef62a6f1a9886c5c94d0c350f066ebc76883a778d507596d07b0fc232d207878d3e0694f5c54cc47eddfcfa147010fe2f2c79c9902ce51f71304d765d60550c5f31c10d75d/91/1280x720_2657600/index.m3u8
@@ -319,10 +311,11 @@ http://124.29.225.205:8000/play/a04b/index.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
+https://global.ncare.live/live-orgin/cgtndoc.stream/playlist.m3u8
 http://livedoc.cgtn.com/1000d/prog_index.m3u8?checkedby:D4N-IPTV
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEP8ha4KiYg4UxTHVNhF5geKUkFkwXhcGsQ&usqp=CAU", Viasat Nature
+http://91.205.199.3/viasatnature/tracks-v1a2/mono.m3u8
 http://91.205.199.3/viasatnature/tracks-a2/mono.m3u8
 http://91.205.199.3:80/viasatnature/index.m3u8
 https://dplus.gammacdn.workers.dev/videos/101.m3u8
@@ -365,12 +358,7 @@ http://119.156.26.155:8000/play/a06b/index.m3u8
 http://ekdilhai.pro/SPTEN1HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2C88os_DEEu3n0u1D4k2WRbQ3K0qGe2jPiQ&usqp=CAU", Sony Sports 2   
-http://ekdilhai.pro/IN_SNT2/index.m3u8
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-http://124.29.225.205:8000/play/a042/index.m3u8?
 http://175.107.244.52:4455/play/a00v/index.m3u8
-http://homeip.biz/IN_SNT2/index.m3u8?token=5b22dcb61ba9563f76618e068cf6a842
-
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",T sports HD 
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
@@ -380,7 +368,7 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=270
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
-https://humsab.xyz/In_Hin/tracks-v1a1/mono.m3u8
+http://41.205.93.154/STARSPORTS1/index.m3u8
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 http://41.205.93.154/STARSPORTS1/tracks-v1a1/mono.m3u8
 http://103.120.172.74:4600
@@ -388,11 +376,11 @@ http://103.120.172.74:4600
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://imgur.com/5otfnBt.png",Star Sports 2 
-http://176.119.29.52/live/00:1A:79:17:C0:71/10153/298.ts
+http://119.156.26.155:8000/play/a06a/index.m3u8?#
 http://103.120.172.74:4500
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNXK-4G6B9L5ZFM2LNMhl6o
 http://103.141.2.37:25461/live/web/web/581.m3u8?
-http://119.156.26.155:8000/play/a06a/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_aL13Eyfo_ucQJwRQjQCiVxf6fHteJ-G7g&usqp=CAU", STAR SPORTS SELECT 
@@ -401,13 +389,11 @@ http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFKiHf2mzBcrvTalvTTSBYo
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
-https://sports.bdixtv24.com/m3u8.php/ptvpk.m3u8
+http://175.107.244.52:4457/play/a08g/index.m3u8
 https://tv5.hoichoi24.com/1000/video.m3u8
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5395000,AVERAGE-BANDWIDTH=5082000
 http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
 http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
 
@@ -419,4 +405,4 @@ https://github.com/AJ-Ashik?tab=repositories
 https://github.com/SonyIPTV?tab=repositories
 https://github.com/freedish2024?tab=repositories
 https://github.com/Rubel-Live-Tv?tab=repositories
-http://14.102.123.50:5001/?q=high&language=5&category=0
+https://dsisefat.github.io/dsi/nosig_1.ts
