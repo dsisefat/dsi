@@ -43,7 +43,8 @@ https://dsisefat.github.io/dsi/nosig_1.ts?#
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?#
+http://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+https://app.ncare.live/streams/peacetvban.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8?#
@@ -58,9 +59,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png ",Dbc News
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=DBC-NEWS
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
+
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
@@ -76,7 +78,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://utube.piratestv.workers.dev/@IndependentTelevision.playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
-https://mtlivestream.com/asian/ytlive/index.m3u8
+https://mtlivestream.com/asian/ytlive/index.m3u8|Referer=https://mtlivestream.com//&key=BDStreamHub
 https://livess.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 
@@ -135,10 +137,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREwYT9bs65T6eT4R4vbnJpmSWe1AZhboh0U9lSrf70iliIhatzJa9EBoK3&s=10",ABP Ananda
-https://abpmitv.akamaized.net/hls/live/2042839/ananda/master_360p.m3u8
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpananda-samsungin/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU",Kolkata Tv
-https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
+#https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1tairxeS-Wy7R9ci1Zl04Hnlus0m_F4Mu6g&s",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
@@ -163,16 +166,14 @@ https://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
 https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm72ZJd0uhgx9HHZCfg7J3900/?ittt
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK9FaKDT7i7teJWAdmK7smeiz5CP8qecW4_w&s",Nagorik Tv
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nagorik_tv?#
-http://stream.iqflix.net:27872/play/a0n2/index.m3u8
-http://103.151.60.214:7444/1103/tracks-v1a1/mono.m3u8
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gIFoJ2pUNWj3xjrx0nCVPag
+@@@@@@@
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCILPJz4nifE9TujQorT1Qqe0cNtL6B-80GPprVcM-04SrUnjqj-s72wU&s=10",Jamuna tv
 https://app24.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
@@ -193,49 +194,24 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=channel_i
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhuHJR0tzeTyoc6XnWJgNddJWkmt5y0spfHw&s",Ekushey tv 
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Duronto_TV_logo.png/revision/latest/scale-to-width-down/340?cb=20230525082520”,Duronto TV
-#https://bdix.proximitybd.xyz/jado.php?id=duronto_tv?#
-#https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://duronto.tv/global/front/img/f_logo.png”,Duronto TV
 https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
+https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8
 https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=STAR-JALSHA
-http://humsab.xyz/IN_JALSHAS/index.m3u8
-http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77SZrNZqOKtxLVkgnZqgDIc/ts
-http://103.151.60.174/manikvai@hoichoi24.com
-http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77SZrNZqOKtxLVkgnZqgDIc/ts
-“Iptv”
-http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm76gsKyd9Vw0mKYGpBAdORdU/ts
-“Iptv”
-http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77vjAwzHfDxqFuH7In9GkM4/ts
-
+https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=245898
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla1/default/index.m3u8
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
-https://tv5.hoichoi24.com/1405/index.m3u8
-“Iptv”
-https://evbr.short.gy/BDStreamHub/zee_bangla.m3u8
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd1/default/index.m3u8
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_bangla
-http://217.20.112.199/zeebangla/index.m3u8
-https://entezeetv.fun/bdcast/hls/index.m3u8?id=q921cn70
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=ZEE-BANGLA
+https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=245893
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=COLORS-BANGLA
-http://217.20.112.199/colorsbangla/index.m3u8
-https://colorsscreen.com/live.php?id=1369&extension=.m3u8
-http://14.102.123.50:5001/live/756.m3u8
-http://14.102.123.50:5001/live/high/1369.m3u8
-http://103.120.172.74:1070
-https://colorsscreen.com/live.php?id=756&extension=.m3u8|Referer=https://colorsscreen.com/
+https://mhdlivetv.com/jiocinema/stream.m3u8?id=3774158
+
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a57c8ca0-fdae-4f7c-b11a-c99699f57029_180x180_PBS-Kids.jpg",PBS KIDS 
@@ -243,15 +219,12 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR64
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=NICK
-http://14.102.123.50:5001/live/high/1341.m3u8
-http://14.102.123.50:5001/live/545.m3u8
-https://colorsscreen.com/live.php?id=1341&extension=.m3u8|Referer=https://colorsscreen.com//&key=BDStreamHub
+@@@@@@@#
 
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
+#https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
 https://dsisefat.github.io/dsi/nosig_1.ts
@@ -302,15 +275,18 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7p12FJ_tPqgX48E_5E2jDDUKKoOKp-nRyBdxmoOvxuk4IXxcam8K9TbD&s=10",Nasa Tv
+https://dsisefat.github.io/dsi/nosig_1.ts
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
 http://45.5.117.182:8000/play/a0ey/index.m3u8
+https://live.tv247us.com/hls/national.m3u8?|
 http://45.5.117.182:8000/play/a0kv/index.m3u8
 http://bal.pst.streaming-elbrus.su:8880/bigteisti10/NATIONALGEOGRAPHIC/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
 http://opplex.tv:8080/live/global/global/245967.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
+http://175.107.244.52:4457/play/a07b/index.m3u8
 http://119.156.26.155:8000/play/a06f/index.m3u8
 http://utube.piratestv.workers.dev/@NatGeoWild.playlist/index.m3u8
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
@@ -342,11 +318,7 @@ http://119.156.26.155:8000/play/a00c/index.m3u8
 http://175.107.244.52:4455/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",T sports HD 
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
-http://103.151.60.214:7444/1101/tracks-v1a1/mono.m3u8
-https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
-https://mhdtv.co.in/daddy/stream.m3u8?id=270
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
+https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc9JqU4yWFBQfCiPDk8Q5b74nT-oGe3AAoQ&usqp=CAU",Star Sports 1 
 http://41.205.93.154/STARSPORTS1/index.m3u8
@@ -361,12 +333,6 @@ http://119.156.26.155:8000/play/a06a/index.m3u8?#
 http://103.120.172.74:4500
 http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gNXK-4G6B9L5ZFM2LNMhl6o
 http://103.141.2.37:25461/live/web/web/581.m3u8?
-
-
-
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9_aL13Eyfo_ucQJwRQjQCiVxf6fHteJ-G7g&usqp=CAU", STAR SPORTS SELECT 
-http://180.178.188.152:8000/play/a018
-http://tv.digitalview.live:8080/play/Ec3xuNlBA9OPTqTHCZm9gFKiHf2mzBcrvTalvTTSBYo?554
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXdNgcmXcPCrboLCOaKLWMmCFr7C_SZFkbIw&usqp=CAU",PTV Sports  
