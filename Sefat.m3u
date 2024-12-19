@@ -13,7 +13,6 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 #https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtglB3AzP1_7W0MNukvfCb5Cnl0Z2CoQY25eTXFFi0KaUkmMY4E11HdPg&s=10",Salaam channel
-https://app.ncare.live/streams/salamtv.stream/playlist.m3u8
 https://iptv.salaamtv.org/salaam/playlist.m3u8
 https://iptv.salaamtv.org/salaam/playlist2/index.m3u8?#
 
@@ -45,6 +44,7 @@ https://dsisefat.github.io/dsi/nosig_1.ts?#
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 http://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 https://app.ncare.live/streams/peacetvban.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8?#
@@ -78,7 +78,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://utube.piratestv.workers.dev/@IndependentTelevision.playlist/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
-https://mtlivestream.com/asian/ytlive/index.m3u8|Referer=https://mtlivestream.com//&key=BDStreamHub
+https://mtlivestream.com/asian/ytlive/index.m3u8  a href="|Referer=https://mtlivestream.com//&key=BDStreamHub"
 https://livess.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 https://global.ncare.live/live-orgin/asian-test-sample-ok-d.stream/playlist.m3u8
 
@@ -141,7 +141,7 @@ https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgztOKN0rcpkp9mLR1TohZmXSj1vg8TB-Xog&usqp=CAU",Kolkata Tv
-#https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
+https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1tairxeS-Wy7R9ci1Zl04Hnlus0m_F4Mu6g&s",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
@@ -149,10 +149,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/pl
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
-http://103.230.105.252:1935/live/btv/playlist.m3u8?#
-https://app24.jagobd.com.bd/live-orgin/btvbd-office-sg.stream/playlist.m3u8
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
-http://103.230.105.252:1935/live/btv/playlist.m3u8?#
+https://fvrd.short.gy/sefat104.m3u8
+http://103.230.105.252:1935/live/btv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
@@ -166,9 +164,6 @@ https://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi TV HD
-http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
-https://bajimath.com/sa/amarbdflix/stream.m3u8?id=GTV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
 http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm72ZJd0uhgx9HHZCfg7J3900/?ittt
 
 
@@ -202,15 +197,16 @@ https://keralamaxtv.com/sliv/stream.php?id=195&e=.m3u8
 https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
-https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=245898
-
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
+https://fvrd.short.gy/StarJalsha.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
-https://fifabd.xyz/KIDxRANAPK/play.m3u8?id=245893
+https://fvrd.short.gy/Zeebangla.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla
-https://mhdlivetv.com/jiocinema/stream.m3u8?id=3774158
+https://fvrd.short.gy/ColoursBangla.m3u8
+http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2903.ts
 
 
 
@@ -219,14 +215,14 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR64
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Nick-logo.png",Nick
-@@@@@@@#
-
+https://fvrd.short.gy/Nick.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-#https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
+https://fvrd.short.gy/CortoonNet.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
+https://fvrd.short.gy/SonyYay.m3u8
 https://dsisefat.github.io/dsi/nosig_1.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6zYsa8lbBUCz9ItWcXWjjdiSuogAsZA0wWg&usqp=CAU",Wild Earth
@@ -267,6 +263,7 @@ http://124.29.225.205:8000/play/a04b/index.m3u8
 https://app24.jagobd.com.bd/live-orgin/cgtndoc.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgEP8ha4KiYg4UxTHVNhF5geKUkFkwXhcGsQ&usqp=CAU", Viasat Nature
+http://atg100.xyz:80/live/UL33K17/SYC4T9D/44103.m3u8@44103.ts@44103.ts
 http://91.205.199.3/viasatnature/tracks-v1a2/mono.m3u8
 http://91.205.199.3/viasatnature/tracks-a2/mono.m3u8
 http://91.205.199.3:80/viasatnature/index.m3u8
@@ -341,9 +338,6 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 https://tv5.hoichoi24.com/1000/video.m3u8
 http://175.107.244.52:4457/play/a08g/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI1MhKuYKXkQngS_4bc5om-M-77hb2yT_SaheBZbn0j74DHFz4a5jAZynU&s=10",Bein Sports
-http://vip.torktv.org:2095/live/zgr2553/zgr.dnm2/5849.ts
-http://175.107.244.52:4457/play/a070/index.m3u8?play/a070/93463000.m3u8
 
 https://github.com/aniketda?tab=repositories
 https://github.com/Hasanmahmud000?tab=repositories
