@@ -202,8 +202,8 @@ https://fvrd.short.gy/Nick.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://i.imgur.com/H3UGkci.png",Cartoon Network
-https://newhub247.store/wp78174/live.m3u8?id=816
-https://fvrd.short.gy/CortoonNet.m3u8
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186416&extension=m3u8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png",Sony Yay    
 https://news.otapp.store/lim/live.php?id=57bd9c2493c1&e=.m3u8
@@ -215,6 +215,7 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/cb543d1e786c668
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6cIrsbeGfVkNSkrEzZKJCeKbszSfmwpJQA&usqp=CAU",Love Nature 
 https://d18dyiwu97wm6q.cloudfront.net:443/playlist720p.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
 https://news.otapp.store/lim/live.php?id=a6497ebbf14f&e=.m3u8
@@ -227,7 +228,7 @@ http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
-https://raw.githubusercontent.com/dsisefat/dsi/main/anim/index_17.m3u8?#
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186398&extension=m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
 https://raw.githubusercontent.com/dsisefat/dsi/main/index_20.m3u8?#
