@@ -174,14 +174,18 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony Aath 
-https://is.gd/nosignel_sefat.ts
+http://103.211.103.86:8080/291471330875/67cd4f22bd4a2.89192/415745?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
+http://103.211.103.86:8080/291471330875/67cd4f22bd4a2.89192/415732?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
 https://fvrd.short.gy/StarJalsha.m3u8
+http://103.211.103.86:8080/291471330875/67cd4f22bd4a2.89192/415732?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
-https://otttv.co.in/d2h/livestream/zee-bangla/manifest.mpd
+http://103.211.103.86:8080/291471330875/67cd4f22bd4a2.89192/415739?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla
@@ -216,17 +220,17 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
 http://125.209.88.166:45793/BRN/BBCEarthHD.stream/chunklist_w170156438.m3u8
 https://fmrx.short.gy/bdixiptvhub/sony_bbc_earth_hd.m3u8
-https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-http://lifetvbd.xyz:8080/play/nGGDJ7jyVEMgsBSvcVHm77V-9L_Kisbi53lDh2AX3TU/ts
+http://45.148.145.57/IN_SONYBBCHD/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
+http://45.148.145.57/IN_ANIMALHD/index.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186398&extension=m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
-https://is.gd/nosignel_sefat.ts
+http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSopRObDxZDAvrPpZ8DTaWX5rzAAy1tW0GuWQ&usqp=CAU",Discovery Turbo
@@ -255,6 +259,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://is.gd/nosignel_sefat.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
+http://45.148.145.57/IND_NationalGeoHD/index.m3u8
 http://stream02.vnet.am/NatGeoWild/mono.m3u8
 http://45.5.117.182:8000/play/a0ey/index.m3u8
 https://live.tv247us.com/hls/national.m3u8?|
@@ -269,13 +274,15 @@ http://utube.piratestv.workers.dev/@NatGeoWild.playlist/index.m3u8
 http://edge02.odtv.az/o3/natgeowild/playlist.m3u8
 http://124.29.225.205:8000/play/a047/index.m3u8
 https://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
+http://119.152.240.15:8001/play/a0do/index.m3u8
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png",TLC 
 http://45.159.74.14/TLC/tracks-v1a2/mono.m3u8
 https://raw.githubusercontent.com/dsisefat/dsi/main/tlc/index_15.m3u8
 http://124.29.225.205:8000/play/a044/index.m3u8
 “https://varun-iptv.netlify.app/m3u/TLC.m3u8’’
-
+http://45.148.145.57/IND_TLCHIND/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8?
