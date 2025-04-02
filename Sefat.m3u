@@ -1,6 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
-http://fvrd.short.gy/sefat101.m3u8?# 
 http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
@@ -8,8 +7,6 @@ https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtglB3AzP1_7W0MNukvfCb5Cnl0Z2CoQY25eTXFFi0KaUkmMY4E11HdPg&s=10",Salaam channel
 https://iptv.salaamtv.org/salaam/playlist.m3u8
-https://iptv.salaamtv.org/salaam/playlist2/index.m3u8?#
-
 
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
 https://cdn149.anystream.uk:8082/app/ic6a5l6/chunks.m3u8?nimblesessionid=
@@ -17,13 +14,9 @@ https://cdn149.anystream.uk:8082/app/ic6a5l6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV2"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qij0qZKUDrfswpJgkz5UkK1kdA_rpyrVCFJGBmThusbc8ietF8tdKlI&s=10",Madani Channel
 https://is.gd/madanitv.m3u8
-#https://utube.piratestv.workers.dev/@MadaniChannelBanglaLive.m3u8
-
-
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzQ4WqhpUpbSmYzIEt5SIl4_LizNv6RTIK7Q&usqp=CAU", Iqra Bangla   
 http://208.86.19.13:81/507.stream/index.m3u8
-https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8?nimblesessionid=
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStglpxxjpfZ0EF38x2L9QHnu6UkWOWchw1Yw&s",Azan Tv
@@ -31,8 +24,6 @@ https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8?#
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHt_5zzMS_9rEE_YcuhYtuTYuXiE5QVh-Gb2otklJzqXT8W8XWUWrU-rQ&s=10", ATN Islamic 
 https://is.gd/nosignel_sefat.ts
-
-
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMkTQf4KjFsE9LauFwf5AOVs4DLcJ_q_yK-A&usqp=CAU", Peace Tv 
 https://is.gd/peacetv_sefat.m3u8
@@ -48,12 +39,10 @@ http://103.211.103.86:8080/2914775/67cd4f22bd4a2.8l20194/415776?token=aXydfbX.fc
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 http://103.211.103.86:8080/2914775/67cd4f22bd4a2.891294/415768?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 https://utube.buddyxiptv.com/@news24television90.playlist/index.m3u8
-http://ythls.kekikakademi.org/youtube/channel/UCHKvg7FqyEqmOkYx0y4KtlA.m3u8
-
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
-
+http://103.211.103.86:8080/47434375/67cd4f22bd4a2.215/415792?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRlwVHST19_tWx74xOkwxT4fc-TqnOi8i-MX8i5aKsAdnNpZrncrW09l&s=10",asian-tv  
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
@@ -62,17 +51,10 @@ http://103.211.103.86:8080/2914775/67cd4f22bd4a2.8209194/415770?token=aXydfbX.fc
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3GFLd3i-9-BkljGW35o_fwJ-M-mIK26qsdezJS0nziqFRcDfT7FmrBj7p&s=10",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
-https://fvrd.short.gy/sefat113.m3u8?#
-https://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
-http://ythls.kekikakademi.org/youtube/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8?
-
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
 http://103.211.103.86:8080/2914775/67cd4f22bd4a2.7l20194/415777?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
@@ -103,6 +85,7 @@ http://103.211.103.86:8080/2914775/67cd4f22bd4a2.02194/415781?token=aXydfbX.fcdf
 http://cdn.streamcast.xyz/timetv/tracks-v1a1/mono.m3u8?#
 https://cdn.streamcast.xyz/timetv/index.m3u8
 http://208.86.19.13:81/506.stream/index.m3u8
+http://103.211.103.86:8080/admin/67cd4f22bd4a2.225/415799?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSkIszDzoXPJ-zJzMojabVD6etWds7ciC5-g&usqp=CAU",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_5.m3u8
@@ -134,8 +117,11 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV
+http://103.211.103.86:8080/admin/67cd4f22bd4a2.4645/415815?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.ts.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8
 http://103.230.105.252:1935/live/btv/playlist.m3u8
+http://103.211.103.86:8080/admin/67cd4f22bd4a2.3545/415807?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
+
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
 https://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
@@ -187,15 +173,16 @@ http://103.211.103.86:8080/password/67cd4f22bd4a2.89192/415732?token=aXydfbX.fcd
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2907.ts
 https://fvrd.short.gy/StarJalsha.m3u8
 http://103.211.103.86:8080/291471330875/67cd4f22bd4a2.89192/415732?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
+http://103.211.103.86:8080/admin/67cd4f22bd4a2/415732?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.ts.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359.sefat.ts
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
 http://103.211.103.86:8080/291471330875/67cd4f22bd4a2.89192/415739?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.m3u8.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
-
+http://103.211.103.86:8080/admin/67cd4f22bd4a2/415739?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.ts.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359.54
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png",Colors Bangla
-https://fvrd.short.gy/ColoursBangla.m3u8
+http://103.211.103.86:8080/admin/67cd4f22bd4a2/415738?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.ts.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359.53
 http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2903.ts
 
 
@@ -236,6 +223,7 @@ http://45.148.145.57/IN_ANIMALHD/index.m3u8
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:80:09:03&stream=186398&extension=m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-1-1.png",Discovery HD  
+http://103.211.103.86:8080/admin/67cd4f22bd4a2.46445/415818?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.ts.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 http://45.148.145.57/IN_DiscoveryFhd/index.m3u8
 
 
@@ -262,16 +250,11 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu7p12FJ_tPqgX48E_5E2jDDUKKoOKp-nRyBdxmoOvxuk4IXxcam8K9TbD&s=10",Nasa Tv
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest_w1979763860_qRFZS.mpd
 https://is.gd/nosignel_sefat.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",National Geographic HD
 http://45.148.145.57/IND_NationalGeoHD/index.m3u8
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
-http://45.5.117.182:8000/play/a0ey/index.m3u8
-https://live.tv247us.com/hls/national.m3u8?|
-http://45.5.117.182:8000/play/a0kv/index.m3u8
-http://bal.pst.streaming-elbrus.su:8880/bigteisti10/NATIONALGEOGRAPHIC/mono.m3u8?token=bWVnYTIwMjR8fFoyVnVZMlZ0WldkaA==
-http://opplex.tv:8080/live/global/global/245967.ts
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy1PLC4-iy_ddi6_29vk38VrxVaRev1XNxuQ&usqp=CAU",NAT GEO WILD 
 http://175.107.244.52:4457/play/a07b/index.m3u8
@@ -291,6 +274,7 @@ http://124.29.225.205:8000/play/a044/index.m3u8
 http://45.148.145.57/IND_TLCHIND/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png",TravelXP 
+http://103.211.103.86:8080/admin/67cd4f22bd4a2.464145/415819?token=aXydfbX.fcdfy.y.cXXUa.ydcdUzcHUd.X.y.BD.ts.9f217150ea308908eaa0c33547fb884773289e55749ea16c9e06ace84bc45359
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8?
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSGLQW9WuuEdBPu0Vpnvf05X00wkx83IE8fnl6qAhgJHDihDQUEYZnU9s&s=10",Red-Bull-TV 
