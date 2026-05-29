@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://imgur.com/U1XFyOx.png",SAUDIA QURAN HD
-http://www.youtube.com@is.gd/mokkhalive.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=index.m3u8
+#http://www.youtube.com@is.gd/mokkhalive.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2F_io5fzPdFEwkqubv5WbpqpwFsU5wYS5CfEocDP9oEGnFEw69aelOKpy&s=10",Deen TV
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
