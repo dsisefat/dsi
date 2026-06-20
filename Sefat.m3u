@@ -6,7 +6,7 @@ http://www.youtube.com@is.gd/mokkhalive.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtglB3AzP1_7W0MNukvfCb5Cnl0Z2CoQY25eTXFFi0KaUkmMY4E11HdPg&s=10",Salaam channel
 https://iptv.salaamtv.org/salaam/playlist.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://i.postimg.cc/Jh0GDy7X/islamch.jpg",Islam Channel
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV2"  tvg-logo="https://yt3.googleusercontent.com/lflHLWqfOjA-jGeDK1hCYHGR-fpH7ZjUVAdN63sIUs9G_O4cRece6SOwLDykVSH-bMpckpi9hA=s900-c-k-c0x00ffffff-no-rj",Islam Channel
 https://live-islamtv-bangla.simplestreamcdn.com/live12/islamtv_bangla/bitrate1.isml/live.m3u8
 
 
@@ -38,7 +38,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://utube.buddyxiptv.com/@news24television90.playlist/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png",Independent
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://yt3.googleusercontent.com/JO8MicN497ze8WVXcu-wmA2WAMqhO8UIQhslV3VhiRu1kaQU3r9nOB4IVkmUt0ALC23DVSSp=s900-c-k-c0x00ffffff-no-rj",Independent
 http://103.175.242.10:8080/independent/index.m3u8|owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 
@@ -53,12 +53,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCiHa4g70vUNx8f252pHEKJOvEsIvC4w2UNQ&usqp=CAU",Ekattor Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png ",Somoy tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://images.seeklogo.com/logo-png/53/2/somoy-tv-logo-png_seeklogo-536972.png ",Somoy tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 
  
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png ",Channel 24
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4i-0JDfJc1s47xpYWYGwoSajUnzLUKRyiC5DH8oEhTw&s=10 ",Channel 24
 http://103.175.242.10:8080/channel24/index.m3u8|owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKpp91zfTj9iHqZjc51K9xStUehDh_UC3FP8wLUHSSqJUdbQLfO8Qc9Q&s=10",ATN News
@@ -95,7 +95,7 @@ https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republictv-samsungindia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcyqvYojVnCXlGL4vhZZyI4B-YcAlSj8lPA&usqp=CAU ",Al Jazeera
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQvh2VVOAzCwWcwDmuMeQHEAtD_6KEd_VMOsGUKqfSQ&s=10 ",Al Jazeera
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 
 
@@ -110,7 +110,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8|103.175.242.10:8080/btv/index.m3u8
 
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Masranga tv
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYa58_0kZZHeEsPfhPUCHCyoiRws7CIOgJO7JPjuy0yg&s=10",Masranga tv
 https://mtv.sunplex.live/MAASRANGA/index.m3u8|mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 
 
@@ -142,7 +142,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFvDYe3XVqLCsdNRaTzvfI8VO6FKxhIQfKw&s",ATN Bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/1200px-Channel-i.svg.png",Channel i 
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0YjOOgzw6CN9U2fqPXe8k9dIjc7nDe7_jNf0Zn-mmAPtxDD1_8y_h3E&s=10",Channel i 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 
@@ -162,7 +162,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFRuCBPxx7QXeNjuMWGVs_3PEm9y-JmJVLg0L8Tym4fVlOKG6B_a3bB8-&s=10",Star Jalsha 
 https://tvsen3.aynascope.net/n64PH4YL/index.m3u8
-
+https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2c43nvIyHgQzAWaGNYdyF6ogHTLHj5LnHmw&usqp=CAU",Zee Bangla 
@@ -202,10 +202,11 @@ https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/0fe77088-37eb-4a06-b2e3-f62bf2e7103c_180x180_BBCEarth.jpg",BBC EARTH
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 https://65.108.239.207/bbc/index.m3u8
-
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWZAoytKczm7M66edLwZ5V9OdH8eY2PavCQ&usqp=CAU",ANIMAL PLANET 
- 
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/live/158-3M/chunks.m3u8?nimblesessionid=
+
 
 
 
@@ -261,6 +262,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThJeIJ7nGU2y9uCXWzA0ndZSf0wnDcW2buD1nOOOj1_r4C4KxSs85c9xCh&s=10",T sports HD 
+http://198.195.239.50:8095/tsports/index.m3u8
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
 
 
